@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AHetzer
 - 📫 How to reach me:
   - email: andrewlhetzer@gmail.com
 
