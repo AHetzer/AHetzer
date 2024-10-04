@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @AHetzer
-- 👀 I’m interested in fitness, running, math, problem-solving, and video games.
-- 🌱 I’ve just recently started my coding journey. I am currently learning python and will start learning Java in a couple months.
-- 💞️ I’m not currently looking to collaborate on anything.
 - 📫 How to reach me:
-  - email: darthandrewhetzer@gmail.com
+  - email: andrewlhetzer@gmail.com
 
 <!---
 AHetzer/AHetzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
