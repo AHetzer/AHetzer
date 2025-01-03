@@ -1,5 +1,5 @@
 - 📫 How to reach me:
-  - email: andrewlhetzer@gmail.com
+  - E-mail: andrewlhetzer@gmail.com
   - LinkedIn: [https://www.linkedin.com/in/andrew-hetzer/](url)
 
 <!---
