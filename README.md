@@ -1,5 +1,6 @@
 - 📫 How to reach me:
   - email: andrewlhetzer@gmail.com
+  - LinkedIn: [https://www.linkedin.com/in/andrew-hetzer/](url)
 
 <!---
 AHetzer/AHetzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
